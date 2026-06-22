@@ -85,4 +85,4 @@ steps:
 ---
 ### Service Connection Name: aws-oidc-sc (This must match the name in your YAML and Trust Policy)
 
-<img width="598" height="873" alt="AWD_OIDC_Connection" src="https://github.com/user-attachments/assets/c45a2c40-f97d-4863-9567-0c59c7957b57" />
+<img width="398" height="573" alt="AWD_OIDC_Connection" src="https://github.com/user-attachments/assets/c45a2c40-f97d-4863-9567-0c59c7957b57" />
